@@ -610,7 +610,7 @@ export default function GamePage() {
               {experience}/{experienceToNextLevel} XP
             </span>
           </div>
-          <div className="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold">18+</div>
+          <div className="bg-red-600 text-white px-3 py-1 rounded-full text-sm font-bold">19+</div>
         </div>
 
         <div className="grid lg:grid-cols-4 gap-6">
@@ -646,7 +646,7 @@ export default function GamePage() {
 
                 <div className="text-center mb-4">
                   <p className="text-sm text-gray-500 mb-2">
-                    For entertainment purposes only. No real money. No prizes. Ages 18+.
+                    For entertainment purposes only. No real money. No prizes. Ages 19+.
                   </p>
                 </div>
 

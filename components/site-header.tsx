@@ -74,7 +74,7 @@ export default function SiteHeader() {
                 </nav>
                 <div className="mt-8 pt-4 border-t">
                   <p className="text-xs text-gray-500">
-                    For entertainment purposes only. No real money. No prizes. Ages 18+.
+                    For entertainment purposes only. No real money. No prizes. Ages 19+.
                   </p>
                 </div>
               </SheetContent>

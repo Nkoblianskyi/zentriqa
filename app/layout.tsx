@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Rescue Hero in the Canadian Rockies - Social Game",
   description:
-    "A free social game for entertainment purposes only. Explore the Canadian Rockies, save hikers, and enjoy the adventure. No real money, no prizes, ages 18+.",
+    "A free social game for entertainment purposes only. Explore the Canadian Rockies, save hikers, and enjoy the adventure. No real money, no prizes, ages 19+.",
 }
 
 export default function RootLayout({

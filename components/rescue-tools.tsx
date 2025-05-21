@@ -175,7 +175,7 @@ export default function RescueTools() {
             onClick={handleStartGame}
           >
             <span className="absolute -top-2 -right-2 bg-blue-900 text-yellow-300 text-xs font-bold px-2 py-1 rounded-full border-2 border-white">
-              18+
+              19+
             </span>
             Start Rescue Mission
           </Button>
@@ -200,7 +200,7 @@ export default function RescueTools() {
                 <li>No real money can be won or lost</li>
                 <li>No prizes are offered</li>
                 <li>For entertainment purposes only</li>
-                <li>Intended for users 18+</li>
+                <li>Intended for users 19+</li>
               </ul>
               <p className="mt-3">
                 If you ever feel your gaming habits are becoming concerning, please contact support resources like{" "}

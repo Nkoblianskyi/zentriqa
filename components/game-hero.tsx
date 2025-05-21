@@ -45,7 +45,7 @@ export default function GameHero() {
                 Start Game
               </Button>
               <p className="mt-3 text-sm font-bold text-yellow-300 bg-blue-900 px-3 py-2 rounded-md inline-block">
-                For entertainment purposes only. No real money. No prizes. Ages 18+.
+                For entertainment purposes only. No real money. No prizes. Ages 19+.
               </p>
             </div>
           </div>
@@ -83,7 +83,7 @@ export default function GameHero() {
                 <li>No real money can be won or lost</li>
                 <li>No prizes are offered</li>
                 <li>For entertainment purposes only</li>
-                <li>Intended for users 18+</li>
+                <li>Intended for users 19+</li>
               </ul>
             </div>
           </div>

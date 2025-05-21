@@ -18,7 +18,7 @@ export default function DisclaimerBanner() {
             <div>
               <p className="text-sm text-red-700">
                 <strong>Important Notice:</strong> This is a free social game for entertainment purposes only. No real
-                money. No prizes. Ages 18+.
+                money. No prizes. Ages 19+.
               </p>
               <p className="text-sm text-red-700 mt-1">
                 If the fun stops, take a step back. You can also visit support resources like{" "}

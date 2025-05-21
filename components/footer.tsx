@@ -14,7 +14,7 @@ export default function Footer() {
             </p>
             <div className="flex items-center">
               <AlertTriangle className="h-5 w-5 text-red-400 mr-2" />
-              <span className="text-red-400 font-bold">18+</span>
+              <span className="text-red-400 font-bold">19+</span>
             </div>
           </div>
 

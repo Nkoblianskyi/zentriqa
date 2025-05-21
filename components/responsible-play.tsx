@@ -18,7 +18,7 @@ export default function ResponsiblePlay() {
               not support any form of betting or wagering.
             </p>
             <p className="text-center mb-6">
-              Intended for audiences 18+. This is a social game made for entertainment only.
+              Intended for audiences 19+. This is a social game made for entertainment only.
             </p>
 
             <div className="border-t border-gray-200 pt-6">
