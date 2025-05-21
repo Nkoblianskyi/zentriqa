@@ -161,100 +161,6 @@ export default function ContactPage() {
                                             </li>
                                         </ul>
                                     </div>
-
-                                    <div className="mt-8 pt-6 border-t border-gray-200">
-                                        <h3 className="font-semibold mb-3">Follow Us</h3>
-                                        <div className="flex space-x-4">
-                                            <a
-                                                href="https://twitter.com/zentriqa"
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center hover:bg-blue-100 transition-colors"
-                                            >
-                                                <svg
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                    width="20"
-                                                    height="20"
-                                                    viewBox="0 0 24 24"
-                                                    fill="none"
-                                                    stroke="currentColor"
-                                                    strokeWidth="2"
-                                                    strokeLinecap="round"
-                                                    strokeLinejoin="round"
-                                                    className="text-blue-700"
-                                                >
-                                                    <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"></path>
-                                                </svg>
-                                            </a>
-                                            <a
-                                                href="https://facebook.com/zentriqa"
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center hover:bg-blue-100 transition-colors"
-                                            >
-                                                <svg
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                    width="20"
-                                                    height="20"
-                                                    viewBox="0 0 24 24"
-                                                    fill="none"
-                                                    stroke="currentColor"
-                                                    strokeWidth="2"
-                                                    strokeLinecap="round"
-                                                    strokeLinejoin="round"
-                                                    className="text-blue-700"
-                                                >
-                                                    <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
-                                                </svg>
-                                            </a>
-                                            <a
-                                                href="https://instagram.com/zentriqa"
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center hover:bg-blue-100 transition-colors"
-                                            >
-                                                <svg
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                    width="20"
-                                                    height="20"
-                                                    viewBox="0 0 24 24"
-                                                    fill="none"
-                                                    stroke="currentColor"
-                                                    strokeWidth="2"
-                                                    strokeLinecap="round"
-                                                    strokeLinejoin="round"
-                                                    className="text-blue-700"
-                                                >
-                                                    <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
-                                                    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
-                                                    <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
-                                                </svg>
-                                            </a>
-                                            <a
-                                                href="https://linkedin.com/company/zentriqa"
-                                                target="_blank"
-                                                rel="noopener noreferrer"
-                                                className="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center hover:bg-blue-100 transition-colors"
-                                            >
-                                                <svg
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                    width="20"
-                                                    height="20"
-                                                    viewBox="0 0 24 24"
-                                                    fill="none"
-                                                    stroke="currentColor"
-                                                    strokeWidth="2"
-                                                    strokeLinecap="round"
-                                                    strokeLinejoin="round"
-                                                    className="text-blue-700"
-                                                >
-                                                    <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
-                                                    <rect x="2" y="9" width="4" height="12"></rect>
-                                                    <circle cx="4" cy="4" r="2"></circle>
-                                                </svg>
-                                            </a>
-                                        </div>
-                                    </div>
                                 </CardContent>
                             </Card>
                         </div>
@@ -364,21 +270,7 @@ export default function ContactPage() {
                     </div>
 
                     {/* Map Section */}
-                    <div className="mt-12">
-                        <h2 className="text-2xl font-bold text-center mb-6">Find Us</h2>
-                        <div className="bg-gray-200 rounded-lg overflow-hidden h-80">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.5174568444843!2d-79.37975492346763!3d43.65030905130282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d4cb2b5935bf09%3A0x7f26b5bd121383a0!2s11%20Yonge%20St%2C%20Toronto%2C%20ON%20M5E%201S9!5e0!3m2!1sen!2sca!4v1716304800000!5m2!1sen!2sca"
-                                width="100%"
-                                height="100%"
-                                style={{ border: 0 }}
-                                allowFullScreen={false}
-                                loading="lazy"
-                                referrerPolicy="no-referrer-when-downgrade"
-                                title="Zentriqa Office Location"
-                            ></iframe>
-                        </div>
-                    </div>
+
                 </div>
             </div>
 
