@@ -7,10 +7,12 @@ import Leaderboard from "@/components/leaderboard"
 import ResponsiblePlay from "@/components/responsible-play"
 import Reviews from "@/components/reviews"
 import ContactForm from "@/components/contact-form"
+import StructuredData from "./structured-data"
 
 export default function Home() {
   return (
     <>
+      <StructuredData />
       <AgeVerificationModal />
 
       {/* Hero Section */}
