@@ -12,10 +12,7 @@ export default function SiteHeader() {
   const navLinks = [
     { href: "/", label: "Home" },
     { href: "/disclaimer", label: "Disclaimer" },
-    { href: "/privacy-policy", label: "Privacy Policy" },
-    { href: "/terms", label: "Terms of Service" },
-    { href: "/cookies", label: "Cookie Policy" },
-    { href: "/game", label: "Play Game" },
+    { href: "/contact", label: "Contact" },
   ]
 
   return (
@@ -39,8 +36,8 @@ export default function SiteHeader() {
             <Link href="/disclaimer" className="text-gray-700 hover:text-blue-700 transition-colors">
               Disclaimer
             </Link>
-            <Link href="/privacy-policy" className="text-gray-700 hover:text-blue-700 transition-colors">
-              Privacy Policy
+            <Link href="/contact" className="text-gray-700 hover:text-blue-700 transition-colors">
+              Contact
             </Link>
           </nav>
 
